@@ -430,11 +430,11 @@ h6,
   color: #000000;
 }
 #ext_menu-v .link {
-  font-size: 0.95rem;
+  font-size: 1.1rem;
 }
 #ext_menu-v .dropdown-item,
 #ext_menu-v .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 1.191rem;
 }
 #ext_menu-v .link:hover,
 #ext_menu-v .dropdown-item:hover,
