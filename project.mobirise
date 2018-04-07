@@ -164,7 +164,7 @@
             "showArrow": false,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc-5907.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/sielvanheukelomhome-1.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -177,7 +177,7 @@
             "overlayOpacity": 0.5
           },
           "title": "SIEL VAN HEUKELOM",
-          "text": "2BA Grafisch Ontwerp",
+          "text": "3BA Grafisch Ontwerp",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>"
         }
       ]
